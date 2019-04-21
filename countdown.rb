@@ -1,4 +1,4 @@
-def countdown(number)
+def countdown
   number = 10
     until number == 1
       puts "#{number} SECOND(S)!"
